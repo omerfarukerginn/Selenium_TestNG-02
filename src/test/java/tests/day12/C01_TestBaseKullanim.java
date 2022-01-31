@@ -22,7 +22,7 @@ public class C01_TestBaseKullanim {
         // ama obje olusturamayiz
 
         // ornegin biz testBase class'ini abstract yaptigimizdan obje olusturamayiz
-        // ama child class'lardan TestrBase'deki setUp ve teardown method'larini kullanabiliriz
+        // ama child class'lardan TestrBase'deki setUp ve teardown method'larini kullanabiliriz.
 
         // TestBase obj1=new TestBase();
 

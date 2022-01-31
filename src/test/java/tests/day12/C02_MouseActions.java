@@ -13,7 +13,7 @@ public class C02_MouseActions extends TestBase {
     // amazon anasayfaya gidin
     // sag ustte hello,signIn elementinin uzerinde mouse'u bekletin
     // acilan menude new list linkine tiklayin
-    // ve new list sayfasinin acildigini test edin
+    // ve new list sayfasinin acildigini test edin.
 
     @Test
     public void amazonList() throws InterruptedException {
